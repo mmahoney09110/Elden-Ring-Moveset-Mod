@@ -335,6 +335,7 @@ private string GetSaveFilePath()
                     // Check if the value is "Disable"
                     if (hpValue.Equals("Disable", StringComparison.OrdinalIgnoreCase))
                     {
+                        Task.Delay(1000).Wait(); // Delay to prevent flickering
                         // Only trigger fade-out if it's not already faded out
                         if (!isFadedOut)
                         {
