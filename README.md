@@ -7,6 +7,7 @@
 - **Smithbox** – parameter, and text editing
 - **WitchyBND** – for unpacking/packing game archives
 - **FLVER Editor 2.0** – model and hitbox editing
+- **Photoshop** – texture editing
 - **DSAnimStudio** – animation/TAE editing
 - **FXR Playground** – FX/visual effect editing
 - **Lua scripting** – weapon logic & transformation conditions
